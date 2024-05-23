@@ -17,11 +17,7 @@ const RowList = () => {
 <Row title="Comedy Movies" fetchUrl={requests.fetchComedyMovies} />
 <Row title="Horror Movies" fetchUrl={requests.fetchHorrorMovies} />
 <Row title="Romance Movies" fetchUrl={requests.fetchRomanceMovies} />
-<<<<<<< HEAD
 <Row title="TV Shows" fetchUrl={requests.fetchTVShows} />
-=======
-<Row title="TV Shows" fetchUrl={requests.fetchTVShow} />
->>>>>>> 60532ba24a34c5bc77fc3e3e7f2d9aced3a10c4b
 <Row title="Documentaries" fetchUrl={requests.fetchDocumentaries} />
     </>
   );

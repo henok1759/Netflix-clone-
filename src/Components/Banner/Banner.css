@@ -1,17 +1,10 @@
 
   
   .banner {
-<<<<<<< HEAD
     /* background-size: cover; */
     /* margin-top: -10vh; */
     height: 100%;
     /* width: 100%; */
-=======
-    background-size: cover;
-    margin-top: -10vh;
-    height: 80vh;
-    width: 100%;
->>>>>>> 60532ba24a34c5bc77fc3e3e7f2d9aced3a10c4b
     color: white;
     object-fit: contain;
   }
@@ -19,11 +12,7 @@
   .banner_contents {
     margin-left: 30px;
     padding-top: 140px;
-<<<<<<< HEAD
     height: 190px;
-=======
-    /* height: 190px; */
->>>>>>> 60532ba24a34c5bc77fc3e3e7f2d9aced3a10c4b
   }
   
   .banner_title {
@@ -71,11 +60,7 @@
   }
   
   .banner_fadeBottom {
-<<<<<<< HEAD
     height: 40vh;
-=======
-    height: 7.4rem;
->>>>>>> 60532ba24a34c5bc77fc3e3e7f2d9aced3a10c4b
     background-image: linear-gradient(
       180deg,
       transparent,
